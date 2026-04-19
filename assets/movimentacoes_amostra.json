@@ -1,0 +1,68 @@
+[
+    {
+        "insumo_nome": "Milho Híbrido 30F53",
+        "tipo": "SAIDA",
+        "quantidade": 50.0,
+        "motivo": "Plantio talhão T-01 e T-02"
+    },
+    {
+        "insumo_nome": "Milho Híbrido 30F53",
+        "tipo": "ENTRADA",
+        "quantidade": 20.0,
+        "motivo": "Reposição parcial — NF 3301"
+    },
+    {
+        "insumo_nome": "Ureia 46% N",
+        "tipo": "SAIDA",
+        "quantidade": 80.0,
+        "motivo": "Adubação cobertura talhões T-01, T-02, T-03"
+    },
+    {
+        "insumo_nome": "Ureia 46% N",
+        "tipo": "SAIDA",
+        "quantidade": 40.0,
+        "motivo": "Adubação cobertura talhão T-04"
+    },
+    {
+        "insumo_nome": "Roundup Original DI",
+        "tipo": "SAIDA",
+        "quantidade": 150.0,
+        "motivo": "Dessecação pré-plantio soja"
+    },
+    {
+        "insumo_nome": "Roundup Original DI",
+        "tipo": "SAIDA",
+        "quantidade": 80.0,
+        "motivo": "Controle de plantas daninhas milho"
+    },
+    {
+        "insumo_nome": "Calcário Dolomítico PRNT 90",
+        "tipo": "SAIDA",
+        "quantidade": 12.0,
+        "motivo": "Calagem talhões T-03 e T-04"
+    },
+    {
+        "insumo_nome": "Diesel S10",
+        "tipo": "SAIDA",
+        "quantidade": 1800.0,
+        "motivo": "Operação plantadeiras — semana 1 e 2"
+    },
+    {
+        "insumo_nome": "Diesel S10",
+        "tipo": "SAIDA",
+        "quantidade": 900.0,
+        "motivo": "Operação pulverizadores — semana 3"
+    },
+    {
+        "insumo_nome": "Soja Intacta RR2 PRO",
+        "tipo": "SAIDA",
+        "quantidade": 35.0,
+        "motivo": "Plantio talhão T-05 e T-06"
+    },
+    {
+        "insumo_nome": "MAP Fosfato Monoamônico",
+        "tipo": "SAIDA",
+        "quantidade": 22.0,
+        "motivo": "Adubação de base plantio soja"
+    }
+]
