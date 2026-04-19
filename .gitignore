@@ -1,0 +1,16 @@
+.env
+
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+sistema.log
+document/other/*
